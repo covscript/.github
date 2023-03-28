@@ -1,12 +1,23 @@
-## Hi there 👋
+## Covariant Script Open Source Organization
+### What is Covariant Script?
+```matlab
+@charset: utf8
+system.out.println("Hello, everyone!")
+system.out.println("大家好啊~")
+```
+Covariant Script is a **dynamic general-purpose language** designed for cross-platform applications. 
 
-<!--
+Some typical CovScript application scenarios are listed below:
+ + Data analysis and preprocess: CSDBC, Codec.JSON and CovAnalysis
+ + Web application backend: Apache2 CGI Executor and NetUtils
+ + Code parsing and analysis: ParserGen and its derivatives
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+In addition, CovScript also provides a reliable, convenient and consistent data transfer experience on many platforms:
+ + Database Connectors: CSDBC, ODBC, SQLite
+ + Inter Process Communication: Process
+ + Native TCP and UDP Socket: Network
+ + Build-in File System and File Streams
+ + Efficient Network Client: cURL
+ + Native FFI: CovScript CNI
+ + Shared Libraries: cFFI
+ 
