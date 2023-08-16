@@ -1,6 +1,6 @@
 ## Covariant Script Open Source Organization
 ### Download and Install
-Please visit http://covscript.org.cn/
+Please visit https://covscript.org.cn/
 ### What is Covariant Script?
 ```matlab
 @charset: utf8
