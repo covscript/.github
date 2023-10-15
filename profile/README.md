@@ -1,4 +1,6 @@
 ## Covariant Script Open Source Organization
+### Try in Codespace
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/covscript/codespace?quickstart=1)
 ### Download and Install
 Please visit https://covscript.org.cn/
 ### What is Covariant Script?
@@ -22,4 +24,3 @@ In addition, CovScript also provides a reliable, convenient and consistent data 
  + Efficient Network Client: cURL
  + Native FFI: CovScript CNI
  + Shared Libraries: cFFI
- 
